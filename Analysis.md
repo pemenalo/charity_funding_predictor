@@ -8,4 +8,4 @@ Despite of reducing dimensionality with PCA (Principal Component Analysis), the 
 
 I tried to add a LeakyReLU layer to deep-learning model, but it didn't work as I expected. Furthermore, adding some regularizers on nauron's kernel still failed.
 
-![Alt text](Images\accuracy_score.PNG "Optional Title")
+![Alt text](Images\accuracy_score.PNG?raw=true "Optional Title")
