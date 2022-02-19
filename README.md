@@ -2,7 +2,7 @@
 
 Using my knowledge of Pandas and the Scikit-Learn’s StandardScaler(), I preprocess a dataset in order to compile, train, and evaluate a neural network model. With TensorFlow, I'll design a deep learning neural network, to create a binary classification model that can predict if an organization will be successful based on the features in the dataset.
 
-## Background Info
+## Background Info & Instructions
 
 From Alphabet Soup’s business team, you have received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization, such as the following:
 
